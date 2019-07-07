@@ -13,7 +13,7 @@ Background reading and introduction
 * https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ```
-Competitions to Try
+Competitions to try
 ```
 
 #### Fraud
