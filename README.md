@@ -1,16 +1,22 @@
 # kaggle
 
-### Reading
+```
+Background reading and introduction
+```
+
+#### Reading
 * https://www.coursera.org/learn/machine-learning#syllabus (anomaly detection)
 * https://stripe.com/radar/guide
 
-### Introduction
+#### Introduction
 * https://www.kaggle.com/c/titanic
 * https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-**Competitions to Try**:
+```
+Competitions to Try
+```
 
-### Fraud
+#### Fraud
 
 * https://www.kaggle.com/mlg-ulb/creditcardfraud
 * https://www.kaggle.com/ntnu-testimon/paysim1
@@ -19,7 +25,7 @@
 * https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 * https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals
 
-### Customer
+#### Customer
 * https://www.kaggle.com/c/talkingdata-mobile-user-demographics
 * https://www.kaggle.com/c/outbrain-click-prediction
 * https://www.kaggle.com/c/predicting-red-hat-business-value
@@ -27,7 +33,7 @@
 * https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 * https://www.kaggle.com/c/coupon-purchase-prediction
 
-### NLP
+#### NLP
 * https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 * https://www.kaggle.com/c/tradeshift-text-classification
 * https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
@@ -41,13 +47,13 @@
 * https://www.kaggle.com/c/otto-group-product-classification-challenge
 * https://www.kaggle.com/c/billion-word-imputation
 
-### Other
+#### Other
 * https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 * https://www.kaggle.com/c/GiveMeSomeCredit
 * https://www.kaggle.com/c/SemiSupervisedFeatureLearning
 
-### Time series
+#### Time series
 * https://www.kaggle.com/c/web-traffic-time-series-forecasting
 
-### OCR
+#### OCR
 * https://www.kaggle.com/c/denoising-dirty-documents
