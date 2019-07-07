@@ -10,7 +10,7 @@
 
 **Competitions to Try**:
 
-####Fraud
+### Fraud
 
 * https://www.kaggle.com/mlg-ulb/creditcardfraud
 * https://www.kaggle.com/ntnu-testimon/paysim1
