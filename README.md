@@ -1,19 +1,7 @@
 # kaggle
 
 ```
-Background reading and introduction
-```
-
-#### Reading
-* https://www.coursera.org/learn/machine-learning#syllabus (anomaly detection)
-* https://stripe.com/radar/guide
-
-#### Introduction
-* https://www.kaggle.com/c/titanic
-* https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-
-```
-Competitions to try
+Competition submissions
 ```
 
 #### Fraud
@@ -57,3 +45,16 @@ Competitions to try
 
 #### OCR
 * https://www.kaggle.com/c/denoising-dirty-documents
+
+
+```
+Background reading
+```
+
+#### Reading
+* https://www.coursera.org/learn/machine-learning#syllabus (anomaly detection)
+* https://stripe.com/radar/guide
+
+#### Introduction
+* https://www.kaggle.com/c/titanic
+* https://www.kaggle.com/c/house-prices-advanced-regression-techniques
